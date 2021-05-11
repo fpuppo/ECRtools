@@ -1,0 +1,1 @@
+This folder contains a portion of spike sorted data from MEA recordings used for the analysis presented in F. Puppo, D. Pre', A. Bang, G. Silva, "Super-selective reconstruction of causal and direct connectivity with application to in-vitro iPSC neuronal networks" bioRxiv, https://doi.org/10.1101/2020.04.28.067124
